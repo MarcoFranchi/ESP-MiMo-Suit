@@ -1,0 +1,37 @@
+Partlist
+
+Exported from MiMo-Light-V2.0.brd at 05/06/2018 17:47
+
+EAGLE Version 8.7.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Package                        Library             Position (mm)         Orientation
+
+C3       100uF             1210                           SparkFun-Capacitors (2.53 16.26)          MR90
+C4       10uF              1206                           SparkFun-Capacitors (41.7 34.62)          MR90
+C5       10uF              1206                           SparkFun-Capacitors (28.54 37.3)          MR180
+D1                         MINIMELF                       diode               (28.75 33.75)         MR0
+FUSE     THERMALFUSE       TE5                            Marco-Lib           (17.63 8.27)          R270
+IC1      MID400SD          SOP254P1030X508-8N             SamacSys_Parts      (39.75 18.89)         MR90
+IC2      ZLDO1117G33TA     SOT230P700X180-4N              SamacSys_Parts      (35.46 36.24)         MR90
+J1       1844252           SHDR6W100P0X350_1X6_2240X920X7 SamacSys_Parts      (21.98 2.38)          R0
+JP1                        JP1                            jumper              (22.88 30.7)          R0
+K1       CPC1966Y          CPC1966Y                       SamacSys_Parts      (23.2 15.9)           R270
+LED2                       CHIPLED_1206                   led                 (22.2 41.05)          R270
+LS1      CSS-0575B-SMT-TR  CSS-0575B-SMT-TR               SamacSys_Parts      (22.25 37)            R180
+MDL1                       ESP8266-ESP12E                 ESP8266-ESP12E      (10.14 27.93)         R0
+R1       220               R1206                          eagle-ltspice       (18.58 25.29)         MR180
+R2       10K               R1206                          eagle-ltspice       (34.74 28.85)         MR0
+R3       S07K11            S07K11                         varistor            (41.07 6.07)          R270
+R4       10K               R1206                          eagle-ltspice       (19.93 19.15)         MR180
+R5       1k                R1206                          eagle-ltspice       (29.65 24.6)          MR0
+R6       10K               R1206                          eagle-ltspice       (18.48 32.1)          MR0
+R7       1k                R1206                          eagle-ltspice       (29.56 21.1)          MR0
+R8       1k                R1206                          eagle-ltspice       (18.36 28.9)          MR180
+R9       220               R1206                          eagle-ltspice       (41.22 28.85)         MR0
+R10      47K 2W            R2512                          eagle-ltspice       (29.44 15.23)         MR180
+R12      4K7               R1206                          eagle-ltspice       (28.5 28.75)          MR0
+T1       BC817-25LT1SMD    SOT23-BEC                      transistor-npn      (22.75 35.75)         MR0
+U2       HLK-PM013W        HLK-PM01                       HLK-PM01            (35.67 25.52)         R90
+X2       TSW-104-08-G-D-RA TSW-104-08-G-D-RA              con-samtec          (8.5 8)               R0
